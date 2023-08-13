@@ -1,4 +1,4 @@
-# Hi there! I'm Ibad. Welcome to my GitHub space! 👋
+# Hi there! I'm Ibad. 👋
 
 👨🏻‍💻  About Me
 
