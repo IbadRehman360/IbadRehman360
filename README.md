@@ -1,16 +1,14 @@
-# Hi there! I'm Ibad Welcome, to my GitHub spot! 👋
-
-## MERN Stack Dev | CS Student 🎓
+# Hi there! I'm Ibad. Welcome to my GitHub space! 👋
 
 👨🏻‍💻  About Me
 
 ### What I Do:
 
-🎓  I'm currently studying Computer Science and also a self taught student.
-🌱  I'm on track for learning more about React, Redux, Next and TypeScript.
-💬  Feel free to reach out to me for volunteering or just for some interesting discussion.
-✉️  You can shoot me an email at lakisd98@gmail.com! I'll try to respond as soon as I can.
-💻 I create good looks with HTML, CSS, and tools like Tailwind CSS and Bootstrap.
+🎓 Currently studying MERN Stack Development | CS Student | Self-taught explorer.
+🌱 Eagerly learning React, Redux, Next, and TypeScript.
+💬 Open to volunteering and engaging discussions.
+✉️ Reach me at ibadhashim4@gmail.com – I'll reply promptly!
+💻 Crafting sleek designs with HTML, CSS, Tailwind CSS, and Bootstrap.
 
 ### My Work:
 
