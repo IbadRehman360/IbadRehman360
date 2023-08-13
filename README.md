@@ -11,7 +11,6 @@
 💻 Crafting sleek designs with HTML, CSS, Tailwind CSS, and Bootstrap.
 
 ### My Work:
- https://github.com/anuraghazra/github-readme-stats%22%3E
 #### Jobify
 *Tech: React, Node.js, Express, MongoDB*
 A tool to keep tabs on tasks. Add, change, done! Secured with MongoDB magic.
@@ -23,6 +22,15 @@ An online store where you shop, cart, and track using Firebase tricks.
 ### Let's Connect!
 
 Chat tech or team up. Find me on [LinkedIn](https://www.linkedin.com/in/ibadhashim) or wave on [Twitter](https://twitter.com/ibad_dev). Peek my projects on [GitHub](https://github.com/ibadhashim).
+
+#### ⚙️  GitHub Analytics
+
+<a href="https://github.com/anuraghazra/github-readme-stats%22%3E
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat%22%3E
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 Happy coding!
 
