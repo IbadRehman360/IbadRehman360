@@ -3,9 +3,13 @@
 ### 👨🏻‍💻 About Me:
 
 🎓 Currently studying MERN Stack Development | CS Student | Self-taught explorer.
+
 🌱 Eagerly learning React, Redux, Next, and TypeScript.
+
 💬 Open to volunteering and engaging discussions.
+
 ✉️ Reach me at ibadhashim4@gmail.com – I'll reply promptly!
+
 💻 Crafting sleek designs with HTML, CSS, Tailwind CSS, and Bootstrap.
 
 ### My Work:
