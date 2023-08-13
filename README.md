@@ -1,8 +1,6 @@
 # Hi there! I'm Ibad. 👋
 
-👨🏻‍💻 About Me
-
-### What I Do:
+### 👨🏻‍💻 About Me:
 
 🎓 Currently studying MERN Stack Development | CS Student | Self-taught explorer.
 🌱 Eagerly learning React, Redux, Next, and TypeScript.
