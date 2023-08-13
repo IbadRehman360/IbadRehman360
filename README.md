@@ -1,8 +1,6 @@
 # Hi there! I'm Ibad. 👋
 
-👨🏻‍💻 About Me
-
-### What I Do:
+### 👨🏻‍💻 About Me:
 
 🎓 Currently studying MERN Stack Development | CS Student | Self-taught explorer.
 
@@ -15,6 +13,7 @@
 💻 Crafting sleek designs with HTML, CSS, Tailwind CSS, and Bootstrap.
 
 ### My Work:
+
 #### Jobify
 *Tech: React, Node.js, Express, MongoDB*
 A tool to keep tabs on tasks. Add, change, done! Secured with MongoDB magic.
