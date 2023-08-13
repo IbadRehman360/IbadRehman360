@@ -25,10 +25,10 @@ Chat tech or team up. Find me on [LinkedIn](https://www.linkedin.com/in/ibadhash
 
 #### ⚙️  GitHub Analytics
 
-<a href="https://github.com/anuraghazra/github-readme-stats%22%3E
+<a href="https://github.com/IbadRehman360/github-readme-stats%22%3E
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat%22%3E
+<a href="https://github.com/IbadRehman360/convoychat%22%3E
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
 </a>
 
