@@ -1,6 +1,8 @@
 # Hi there! I'm Ibad. 👋
 
-### 👨🏻‍💻 About Me:
+👨🏻‍💻 About Me
+
+### What I Do:
 
 🎓 Currently studying MERN Stack Development | CS Student | Self-taught explorer.
 
@@ -40,9 +42,6 @@ Chat tech or team up. Find me on [LinkedIn](https://www.linkedin.com/in/ibadhash
 #### ⚙️ GitHub Analytics
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IbadRehman360&theme=noctis_minimus&show_icons=true&count_private=true)](https://github.com/IbadRehman360/github-readme-stats)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbadRehman360&layout=compact&langs_count=8&card_width=320&theme=noctis_minimus)](https://github.com/IbadRehman360/convoychat)
 
 Happy coding!
-
