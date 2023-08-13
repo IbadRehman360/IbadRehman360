@@ -11,8 +11,7 @@
 💻 Crafting sleek designs with HTML, CSS, Tailwind CSS, and Bootstrap.
 
 ### My Work:
-[![Animation](https://img.shields.io/badge/Check%20out%20my%20Animation-Click%20Here-blue?logo=data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)](link_to_your_animation.gif)
-
+ https://github.com/anuraghazra/github-readme-stats%22%3E
 #### Jobify
 *Tech: React, Node.js, Express, MongoDB*
 A tool to keep tabs on tasks. Add, change, done! Secured with MongoDB magic.
