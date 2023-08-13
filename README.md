@@ -11,6 +11,7 @@
 💻 Crafting sleek designs with HTML, CSS, Tailwind CSS, and Bootstrap.
 
 ### My Work:
+[![Animation](https://img.shields.io/badge/Check%20out%20my%20Animation-Click%20Here-blue?logo=data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)](link_to_your_animation.gif)
 
 #### Jobify
 *Tech: React, Node.js, Express, MongoDB*
