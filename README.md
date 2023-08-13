@@ -1,31 +1,30 @@
-# 👋 Hey there, I'm Ibad Hashim! 🚀
+# Hi there! I'm Ibad Welcome, to my GitHub spot! 👋
 
-## 🌟 MERN Stack Magician | CS Student by Day 🎓
+## MERN Stack Dev | CS Student 🎓
 
-Welcome to the enchanting realm of my GitHub kingdom! I'm the conjurer of all things MERN (MongoDB, Express, React, Node.js), weaving intricate spells of code to craft mesmerizing web experiences. Currently on a quest for a CS degree, I've traversed the realms of self-learning to wield the mighty tools of technology.
+👨🏻‍💻  About Me
 
-### ✨ My Magical Arsenal:
+### What I Do:
 
-- **MERN Mastery**: I'm a spellbinding maestro, crafting ethereal user interfaces with React and conjuring potent backends with Node.js and Express.
+🎓  I'm currently studying Computer Science and also a self taught student.
+🌱  I'm on track for learning more about React, Redux, Next and TypeScript.
+💬  Feel free to reach out to me for volunteering or just for some interesting discussion.
+✉️  You can shoot me an email at lakisd98@gmail.com! I'll try to respond as soon as I can.
+💻 I create good looks with HTML, CSS, and tools like Tailwind CSS and Bootstrap.
 
-- **Database Wizardry**: I've tamed the wild energies of MongoDB, molding data structures and forging powerful connections in the heart of web applications.
+### My Work:
 
-- **Responsive Runes**: I sculpt responsive designs using the arcane languages of HTML and CSS, augmented with the enchanted libraries of Tailwind CSS and Bootstrap.
-
-- **Eternal Apprentice**: Ever hungry for knowledge, I'm an eternal student, delving into the deepest tomes of tech to expand my mystical repertoire.
-
-### 🪄 Feats of Magic:
-
-#### 🌈 Radiant Tasks
+#### Jobify
 *Tech: React, Node.js, Express, MongoDB*
-Description: An otherworldly task management marvel that lets users manifest, modify, and track their tasks. Woven with user authentication, powered by the magic of MongoDB.
+A tool to keep tabs on tasks. Add, change, done! Secured with MongoDB magic.
 
-#### 🛒 Enchanted Emporium
+#### ShopWizard
 *Tech: React, Redux, Firebase*
-Description: An enchanted e-commerce emporium adorned with user spells, cart conjuring, and real-time order scrying, all through the mystical flames of Firebase.
+An online store where you shop, cart, and track using Firebase tricks.
 
-### 🔮 Join the Quest!
+### Let's Connect!
 
-I'm ever eager to forge alliances on new adventures, share arcane secrets, or simply discuss the cosmic dance of technology. You can summon me through the [LinkedIn portal](https://www.linkedin.com/in/ibadhashim) or by invoking my presence on [Twitter](https://twitter.com/ibad_dev). Dive into the ancient codex of my accomplishments on [GitHub](https://github.com/ibadhashim).
+Chat tech or team up. Find me on [LinkedIn](https://www.linkedin.com/in/ibadhashim) or wave on [Twitter](https://twitter.com/ibad_dev). Peek my projects on [GitHub](https://github.com/ibadhashim).
 
-May the source be with you!
+Happy coding!
+
