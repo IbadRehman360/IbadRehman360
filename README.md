@@ -22,14 +22,14 @@ An online store where you shop, cart, and track using Firebase tricks.
 ### Tech Stack:
 🛠  Here are some of the technologies I work with:
 
-- HTML/CSS ![HTML/CSS](https://img.icons8.com/color/48/000000/html-5--v1.png)
-- Tailwind CSS ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png)
-- Bootstrap ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
-- JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
-- React ![React](https://img.icons8.com/color/48/000000/react-native.png)
-- Redux ![Redux](https://img.icons8.com/color/48/000000/redux.png)
-- Next.js ![Next.js](https://img.icons8.com/color/48/000000/nextjs.png)
-- TypeScript ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
+![HTML/CSS](https://img.icons8.com/color/48/000000/html-5--v1.png)
+ ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png)
+![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+ ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
+ ![React](https://img.icons8.com/color/48/000000/react-native.png)
+ ![Redux](https://img.icons8.com/color/48/000000/redux.png)
+![Next.js](https://img.icons8.com/color/48/000000/nextjs.png)
+![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
 
 ### Let's Connect!
 
