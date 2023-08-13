@@ -1,6 +1,6 @@
 # Hi there! I'm Ibad. 👋
 
-## 👨🏻‍💻 About Me:
+### 👨🏻‍💻 About Me:
 
 🎓 Currently studying MERN Stack Development | CS Student | Self-taught explorer.
 
@@ -12,7 +12,7 @@
 
 💻 Crafting sleek designs with HTML, CSS, Tailwind CSS, and Bootstrap.
 
-## My Work:
+### My Work:
 #### Jobify
 *Tech: React, Node.js, Express, MongoDB*
 A tool to keep tabs on tasks. Add, change, done! Secured with MongoDB magic.
@@ -33,7 +33,7 @@ An online store where you shop, cart, and track using Firebase tricks.
 ![Next.js](https://img.icons8.com/color/48/000000/nextjs.png)
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
 
-## Let's Connect!
+### Let's Connect!
 
 Chat tech or team up. Find me on [LinkedIn](https://www.linkedin.com/in/ibadhashim) or wave on [Twitter](https://twitter.com/ibad_dev). Peek at my projects on [GitHub](https://github.com/ibadhashim).
 
