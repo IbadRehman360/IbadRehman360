@@ -20,7 +20,7 @@ An online store where you shop, cart, and track using Firebase tricks.
 
 ### Tech Stack:
 🛠 Here are some of the technologies I work with:
-
+(https://mythinkpond.com/img/logo/tailwindcss-logo.png)
 ![HTML/CSS](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css-logo.png)
 ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
