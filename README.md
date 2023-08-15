@@ -3,9 +3,7 @@
 ### 👨🏻‍💻 About Me:
 
  🎓 Currently studying MERN Stack Development | CS Student | Self-taught explorer.
-
  🌱 Eagerly learning React, Redux,  and TypeScript.
-
  ✉️ Reach me at (ibadhashim4@gmail.com – I'll reply promptly!
 
 ### My Work:
