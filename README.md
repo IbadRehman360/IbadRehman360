@@ -10,14 +10,21 @@
 
 ### My Work:
 
-#### Jobify
-*Tech: React, Node.js, Express, MongoDB*
-A tool to keep tabs on tasks. Add, change, done! Secured with MongoDB magic.
+####YelpCamp
+#Tech: HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB, NPM, and more.
 
-#### GameShelf
-*Tech: React, Redux, Firebase*
-An online store where you shop, cart, and track using Firebase tricks.
+####YelpCamp is a platform where users can create and review campgrounds. A user account is required to create or review campgrounds.
 
+###GameShelf (GitHub Repo) (Currenrty UnderWork)
+#Tech: React, Redux, Supabase, JavaScript, Tanstack Query.
+
+###GameShelf is an online store that offers gaming-related items. It features shopping, cart functionality, messaging sellers, CRUD operations, and distinct user profiles for both customers and post owners.
+
+####Jobify (GitHub Repo)
+#Tech: React, JavaScript, Supabase, CSS3.
+
+Jobify is a task management tool designed to help you keep track of your tasks. You can add, modify, and mark tasks as done, all while benefiting from the magic of MongoDB-backed security.
+ 
 ### Tech Stack:
 🛠 Here are some of the technologies I work with:
 
