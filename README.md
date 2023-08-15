@@ -13,7 +13,7 @@ YelpCamp: Campground Review Platform, with CRUD operation, Access Control.
 [Yelpcamp](https://github.com/IbadRehman360/YelpCamp-Project)
 
 #### GameShelf:  (Currenrty Underwork)
- Tech: React, Redux, Supabase, JavaScript, Tanstack Query.
+#### Tech: React, Redux, Supabase, JavaScript, Tanstack Query.
  GameShelf: Online Gaming Store. shopping,  messaging sellers, CRUD operations, and Access Control. 
 [GameSelf](https://github.com/IbadRehman360/gameshelf)
 
