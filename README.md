@@ -11,16 +11,16 @@
 #### YelpCamp 
 Tech: HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB, NPM, and more.
 YelpCamp: Campground Review Platform, with CRUD operation, Access Control.
-https://github.com/IbadRehman360/YelpCamp-Project)
+[Yelpcamp](https://github.com/IbadRehman360/YelpCamp-Project)
 
 #### GameShelf (GitHub Repo) (Currenrty UnderWork)
  Tech: React, Redux, Supabase, JavaScript, Tanstack Query.
  GameShelf: Online Gaming Store. shopping,  messaging sellers, CRUD operations, and Access Control. 
-https://github.com/IbadRehman360/gameshelf
+[GameSelf](https://github.com/IbadRehman360/gameshelf)
 
 #### Jobify (GitHub Repo)
 Tech: React, JavaScript, Supabase, CSS3.
-Jobify is a task management tool designed to help you keep track of your tasks. You can add, modify, and mark tasks as done, all while benefiting from the magic of MongoDB-backed security. https://github.com/IbadRehman360/jobify
+Jobify is a task management tool designed to help you keep track of your tasks. You can add, modify, and mark tasks as done, all while benefiting from the magic of MongoDB-backed security. [Jobify](https://github.com/IbadRehman360/jobify)
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -47,7 +47,8 @@ Jobify is a task management tool designed to help you keep track of your tasks. 
 
 ### Let's Connect!
 
-Chat tech or team up. Find me on [LinkedIn]([https://www.linkedin.com/in/ibadhashim](https://twitter.com/Froy0926)) or wave on [Twitter](https://twitter.com/ibad_dev). Peek at my projects on the [GitHub](https://github.com/ibadhashim).
+Chat tech or team up. Find me on [LinkedIn]([[https://www.linkedin.com/in/ibadhashim](https://twitter.com/Froy0926)](https://www.linkedin.com/in/valorant-account-730321241/)) or wave on [Twitter](https://twitter.com/ibad_dev). Peek at my projects on the [GitHub](https://github.com/ibadhashim) or ✉️ Reach me at (ibadhashim4@gmail.com – I'll reply promptly!
+
 
 Happy coding!
 
