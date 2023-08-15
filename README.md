@@ -12,7 +12,7 @@ Tech: HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB, NPM, and more.
 YelpCamp: Campground Review Platform, with CRUD operation, Access Control.
 [Yelpcamp](https://github.com/IbadRehman360/YelpCamp-Project)
 
-#### GameShelf (GitHub Repo) (Currenrty UnderWork)
+#### GameShelf (GitHub Repo) (Currenrty Underwork)
  Tech: React, Redux, Supabase, JavaScript, Tanstack Query.
  GameShelf: Online Gaming Store. shopping,  messaging sellers, CRUD operations, and Access Control. 
 [GameSelf](https://github.com/IbadRehman360/gameshelf)
