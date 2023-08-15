@@ -22,10 +22,9 @@ https://github.com/IbadRehman360/gameshelf
 Tech: React, JavaScript, Supabase, CSS3.
 Jobify is a task management tool designed to help you keep track of your tasks. You can add, modify, and mark tasks as done, all while benefiting from the magic of MongoDB-backed security. https://github.com/IbadRehman360/jobify
 
-### Tech Stack:
-🛠 Here are some of the technologies I work with:
 
 ### 🛠 &nbsp;Tech Stack
+🛠 Here are some of the technologies I work with:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
