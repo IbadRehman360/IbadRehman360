@@ -46,7 +46,7 @@ Jobify is a task management tool designed to help you keep track of your tasks. 
 
 ### Let's Connect!
 
-Chat tech or team up. Find me on [LinkedIn](https://www.linkedin.com/in/valorant-account-730321241/) or wave on [Twitter](https://twitter.com/ibad_dev). Peek at my projects on the [GitHub](https://github.com/ibadhashim) or ✉️ Reach me at [Email](ibadhashim4@gmail.com) – I'll reply promptly!
+Chat tech or team up. Find me on [LinkedIn](https://www.linkedin.com/in/valorant-account-730321241/) or wave on [Twitter](https://twitter.com/ibad_dev). Peek at my projects on the [GitHub](https://github.com/ibadhashim) or ✉️ Reach me at ibadhashim4@gmail.com – I'll reply promptly!
 
 
 Happy coding!
