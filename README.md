@@ -42,7 +42,7 @@ https://github.com/IbadRehman360/gameshelf
 
 ### Let's Connect!
 
-Chat tech or team up. Find me on [LinkedIn](https://www.linkedin.com/in/ibadhashim) or wave on [Twitter](https://twitter.com/ibad_dev). Peek at my projects on the [GitHub](https://github.com/ibadhashim).
+Chat tech or team up. Find me on [LinkedIn]([https://www.linkedin.com/in/ibadhashim](https://twitter.com/Froy0926)) or wave on [Twitter](https://twitter.com/ibad_dev). Peek at my projects on the [GitHub](https://github.com/ibadhashim).
 
 Happy coding!
 
