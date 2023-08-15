@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 About Me:
 
  🎓 Currently studying MERN Stack Development | CS Student | Self-taught explorer.
- 🌱 Eagerly learning React, Redux,  and TypeScript.
+🌱 Gaming Enthusiast Eagerly Learning React, Redux, and TypeScript.
 
 ### My Work:
 
