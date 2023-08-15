@@ -8,7 +8,7 @@
 ### My Work:
 
 #### YelpCamp:
-Tech: HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB, NPM, and more.
+####  Tech: HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB, NPM, and more.
 YelpCamp: Campground Review Platform, with CRUD operation, Access Control.
 [Yelpcamp](https://github.com/IbadRehman360/YelpCamp-Project)
 
@@ -18,7 +18,7 @@ YelpCamp: Campground Review Platform, with CRUD operation, Access Control.
 [GameSelf](https://github.com/IbadRehman360/gameshelf)
 
 #### Jobify:
-Tech: React, JavaScript, Supabase, CSS3.
+####  Tech: React, JavaScript, Supabase, CSS3.
 Jobify is a task management tool designed to help you keep track of your tasks. You can add, modify, and mark tasks as done, all while benefiting from the magic of MongoDB-backed security. [Jobify](https://github.com/IbadRehman360/jobify)
 
 
