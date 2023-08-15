@@ -7,17 +7,17 @@
 
 ### My Work:
 
-#### YelpCamp 
+#### YelpCamp:
 Tech: HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB, NPM, and more.
 YelpCamp: Campground Review Platform, with CRUD operation, Access Control.
 [Yelpcamp](https://github.com/IbadRehman360/YelpCamp-Project)
 
-#### GameShelf (GitHub Repo) (Currenrty Underwork)
+#### GameShelf:  (Currenrty Underwork)
  Tech: React, Redux, Supabase, JavaScript, Tanstack Query.
  GameShelf: Online Gaming Store. shopping,  messaging sellers, CRUD operations, and Access Control. 
 [GameSelf](https://github.com/IbadRehman360/gameshelf)
 
-#### Jobify (GitHub Repo)
+#### Jobify:
 Tech: React, JavaScript, Supabase, CSS3.
 Jobify is a task management tool designed to help you keep track of your tasks. You can add, modify, and mark tasks as done, all while benefiting from the magic of MongoDB-backed security. [Jobify](https://github.com/IbadRehman360/jobify)
 
