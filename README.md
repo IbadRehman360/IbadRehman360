@@ -9,7 +9,7 @@
 ### My Work:
 
 #### YelpCamp 
-##### Tech: HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB, NPM, and more.
+###### Tech: HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB, NPM, and more.
 ##### YelpCamp is a platform where users can create and review campgrounds. A user account is required to create or review campgrounds. 
 (https://github.com/IbadRehman360/YelpCamp-Project)
 
