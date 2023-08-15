@@ -25,14 +25,21 @@ Jobify is a task management tool designed to help you keep track of your tasks. 
 ### Tech Stack:
 🛠 Here are some of the technologies I work with:
 
-![HTML/CSS](https://img.icons8.com/color/48/000000/html-5--v1.png)
-![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css-logo.png)
-![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
-![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
-![React](https://img.icons8.com/color/48/000000/react-native.png)
-![Redux](https://img.icons8.com/color/48/000000/redux.png)
-![Next.js](https://img.icons8.com/color/48/000000/nextjs.png)
-![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
+### 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwind-css)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 #### ⚙️ GitHub Analytics
 
