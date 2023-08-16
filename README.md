@@ -36,13 +36,6 @@ YelpCamp: Campground Review Platform, with CRUD operation, Access Control.
  GameShelf: Online Gaming Store. shopping,  messaging sellers, CRUD operations, and Access Control. 
 [GameSelf](https://github.com/IbadRehman360/gameshelf)
 
-#### Jobify:
-####  Tech: React, JavaScript, Supabase, CSS3.
-Jobify is a task management tool designed to help you keep track of your tasks. You can add, modify, and mark tasks as done, all while benefiting from the magic of MongoDB-backed security. [Jobify](https://github.com/IbadRehman360/jobify)
-
-
-
-
 
 #### ⚙️ GitHub Analytics
 
