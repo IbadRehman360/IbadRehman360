@@ -39,9 +39,7 @@
 ### Some of My Key Projects:
 
 #### [GameSelf](https://github.com/IbadRehman360/gameshelf) ~ Gaming Store (in Progress)
-
 #### [Yelpcamp](https://github.com/IbadRehman360/YelpCamp-Project) ~ Campground Hub
-
 #### [Jobify](https://github.com/IbadRehman360/jobify) ~ Job Seeking
 
 
