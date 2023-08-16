@@ -1,5 +1,4 @@
 ## Hi there! I'm Ibad. 👋
-
 ### 👨🏻‍💻 About Me:
 
  🎓 Currently studying MERN Stack Development | CS Student | Self-taught explorer.
