@@ -3,9 +3,10 @@
 ### 👨🏻‍💻 About Me:
 
  🎓 Currently studying MERN Stack Development | CS Student | Self-taught explorer.
-🌱 Gaming Enthusiast Eagerly Learning React, Redux, and TypeScript.
-
-
+🌱 Eagerly learning React, Redux, Next, and TypeScript.
+💬 Open to volunteering and engaging discussions.
+✉️ Reach me at ibadhashim4@gmail.com – I'll reply promptly!
+💻 Crafting sleek designs with HTML, CSS, Tailwind CSS, and Bootstrap.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -24,24 +25,16 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-### My Work:
+### Few Of My Main Projects:
 
-#### YelpCamp:
-####  Tech: HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB, NPM, and more.
-YelpCamp: Campground Review Platform, with CRUD operation, Access Control.
+[GameSelf](https://github.com/IbadRehman360/gameshelf)(Currently Working)
 [Yelpcamp](https://github.com/IbadRehman360/YelpCamp-Project)
-
-#### GameShelf:  (Currenrty Underwork)
-#### Tech: React, Redux, Supabase, JavaScript, Tanstack Query.
- GameShelf: Online Gaming Store. shopping,  messaging sellers, CRUD operations, and Access Control. 
-[GameSelf](https://github.com/IbadRehman360/gameshelf)
-
-
+[Jobify](https://github.com/IbadRehman360/jobify)
+ 
 #### ⚙️ GitHub Analytics
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IbadRehman360&theme=noctis_minimus&show_icons=true&count_private=true)](https://github.com/IbadRehman360/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbadRehman360&layout=compact&langs_count=8&card_width=320&theme=noctis_minimus)](https://github.com/IbadRehman360/convoychat)
-
 
 ### Let's Connect!
 
