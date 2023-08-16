@@ -32,8 +32,8 @@
 ### One of My (in Progress) Key Projects:
 
 #### [GameSelf](https://github.com/IbadRehman360/gameshelf) ~ Gaming Store  
-Tech: React, Redux, Supabase, JavaScript, Tanstack Query, NPM DaisyUi, Tailwind. 
-GameShelf is an online store that offers gaming-related items. It features shopping, messaging sellers, CRUD operations, and distinct user profiles for both customers and post owners.
+##### Tech: React, Redux, Supabase, JavaScript, Tanstack Query, NPM DaisyUi, Tailwind. 
+##### GameShelf is an online store that offers gaming-related items. It features shopping, messaging sellers, CRUD operations, and distinct user profiles for both customers and post owners.
 
 # 
 #### ⚙️ GitHub Analytics
