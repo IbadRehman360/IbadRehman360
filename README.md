@@ -29,11 +29,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-### Few Of My Main Projects:
+### Some of My Key Projects:
 
-[GameSelf](https://github.com/IbadRehman360/gameshelf)(Currently Working)
-[Yelpcamp](https://github.com/IbadRehman360/YelpCamp-Project)
-[Jobify](https://github.com/IbadRehman360/jobify)
+[GameSelf](https://github.com/IbadRehman360/gameshelf)(Currently in Progress),  [Yelpcamp](https://github.com/IbadRehman360/YelpCamp-Project),  [Jobify](https://github.com/IbadRehman360/jobify)
  
 #### ⚙️ GitHub Analytics
 
