@@ -36,10 +36,6 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IbadRehman360&theme=noctis_minimus&show_icons=true&count_private=true)](https://github.com/IbadRehman360/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbadRehman360&layout=compact&langs_count=8&card_width=320&theme=noctis_minimus)](https://github.com/IbadRehman360/convoychat)
 
-### Some of My Key Projects:
-
-#### [GameSelf](https://github.com/IbadRehman360/gameshelf) ~ Gaming Store (in Progress) #### [Yelpcamp](https://github.com/IbadRehman360/YelpCamp-Project) ~ Campground Hub #### [Jobify](https://github.com/IbadRehman360/jobify) ~ Job Seeking
-
 
 
 
