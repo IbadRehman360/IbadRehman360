@@ -33,9 +33,9 @@
 
 ##### [GameSelf](https://github.com/IbadRehman360/gameshelf) ~ Gaming Store (in Progress)
 
-#### [Yelpcamp](https://github.com/IbadRehman360/YelpCamp-Project) ~ Campground Hub
+##### [Yelpcamp](https://github.com/IbadRehman360/YelpCamp-Project) ~ Campground Hub
 
-#### [Jobify](https://github.com/IbadRehman360/jobify) ~ Job Seeking
+##### [Jobify](https://github.com/IbadRehman360/jobify) ~ Job Seeking
  
 #### ⚙️ GitHub Analytics
 
