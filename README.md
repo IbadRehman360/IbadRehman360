@@ -25,12 +25,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### One of My (in Progress) Key Projects:
+### One of My Key Projects:
 
 #### [GameSelf](https://github.com/IbadRehman360/gameshelf) ~ Gaming Store  
  Tech: React, Redux, Supabase, JavaScript, Tanstack Query, NPM DaisyUi, Tailwind. 
 
-  GameShelf is an online store that offers gaming-related items. It features shopping, messaging sellers, CRUD operations, and distinct user profiles for both customers and post owners.
+  GameShelf is an online store that offers gaming-related items. It features shopping, rael time messaging sellers, CRUD operations, and distinct user profiles for both customers and post owners.
 
 # 
 #### ⚙️ GitHub Analytics
