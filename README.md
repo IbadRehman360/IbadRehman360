@@ -55,7 +55,7 @@ LeadAware enhances lead generation and management. and Many More!
 # 
 ### Let's Connect!
 
-Chat tech or team up. Find me on [LinkedIn](https://www.linkedin.com/in/valorant-account-730321241/) or wave on [Twitter](https://twitter.com/ibad_dev). Peek at my projects on the [GitHub](https://github.com/ibadhashim) or ✉️ Reach me at ibadhashim4@gmail.com – I'll reply promptly!
+Chat tech or team up. Find me on [LinkedIn](https://www.linkedin.com/in/ibad-ur-rehman-b5a78a27b/) or wave on [Twitter](https://twitter.com/ibad_dev). Peek at my projects on the [GitHub](https://github.com/ibadhashim) or ✉️ Reach me at ibadhashim4@gmail.com – I'll reply promptly!
 
 
 Happy coding!
