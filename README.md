@@ -37,7 +37,7 @@ Perill Group offers consulting services specializing in risk management and stra
 ### [TripKarao](https://www.tripkarao.pk/) 
 TripKarao is a travel platform offering comprehensive travel solutions, including flight bookings, hotel reservations, and travel packages.
 
-### [SurgiMakers](https://www.surgimakers.com/) || [Gfacility](https://gfacility.com/) || [LeadAware](https://www.leadaware.co/) 
+### [SurgiMakers](https://www.surgimakers.com/) - [Gfacility](https://gfacility.com/) - [LeadAware](https://www.leadaware.co/) 
 and Many More!
  
  
