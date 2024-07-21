@@ -1,6 +1,6 @@
 ### 👨🏻‍💻 About Me:
 
-🎓 MERN/Next.js Stack Developer | Software Engineer | Crafting Sleek Designs
+🎓 MERN/Next.js Stack Developer | Software Developer | Crafting Sleek Designs
  
 ⚡ Fun fact: Computer mouse speed is measured in *Mickeys*.
 
