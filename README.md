@@ -28,17 +28,16 @@
 
 #### 
 
-### [EazyConnections](https://www.eazyconnections.com/)
-EazyConnections focuses on providing networking solutions, connecting businesses and individuals for professional networking and collaboration.
- 
-### [Perill Group](https://perill-group.vercel.app/) 
-Perill Group offers consulting services specializing in risk management and strategic advisory, helping businesses navigate complex challenges and make informed decisions.
+### [EazyConnections](https://www.eazyconnections.com/) - [Perill Group](https://perill-group.vercel.app/)
+EazyConnections provides networking solutions for businesses and individuals. Perill Group offers risk management and strategic consulting services.
 
-### [TripKarao](https://www.tripkarao.pk/) 
-TripKarao is a travel platform offering comprehensive travel solutions, including flight bookings, hotel reservations, and travel packages.
+### [TripKarao](https://www.tripkarao.pk/) - [SurgiMakers](https://www.surgimakers.com/)
+TripKarao offers comprehensive travel solutions. SurgiMakers develops innovative surgical devices and technologies.
 
-#### [SurgiMakers](https://www.surgimakers.com/) - [Gfacility](https://gfacility.com/) - [LeadAware](https://www.leadaware.co/) and Many More!
- 
+### [Gfacility](https://gfacility.com/) - [LeadAware](https://www.leadaware.co/)
+Gfacility provides facility management solutions. LeadAware enhances lead generation and management.
+
+#### and Many More!
  
 
 
