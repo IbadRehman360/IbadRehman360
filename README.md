@@ -26,49 +26,25 @@
 
 #### 
 
-### EazyConnections
+### [EazyConnections](https://www.eazyconnections.com/) 
 EazyConnections focuses on providing networking solutions, connecting businesses and individuals for professional networking and collaboration.
  
-### Perill Group
+### [Perill Group](https://perill-group.vercel.app/)
 Perill Group offers consulting services specializing in risk management and strategic advisory, helping businesses navigate complex challenges and make informed decisions.
 
-### LAWEP.ai
-LAWEP.ai utilizes Generative AI to aid in legislative research and drafting, helping policymakers and legislators create high-quality policies efficiently and cost-effectively.
-
-### TripKarao
+### [TripKarao](https://www.tripkarao.pk/)
 TripKarao is a travel platform offering comprehensive travel solutions, including flight bookings, hotel reservations, and travel packages.
 
-### Lyncit.ai
-Lyncit enhances team collaboration by integrating various communication tools, streamlining workflows, and boosting productivity.
-
-### Gfacility
+### [SurgiMakers](https://www.surgimakers.com/)
+SurgiMakers develops innovative surgical devices and technologies aimed at improving surgical outcomes and enhancing patient care.
+ 
+### [Gfacility](https://gfacility.com/)
 Gfacility offers comprehensive facility management solutions, focusing on maintenance, space, and asset management to optimize operational efficiency.
 
-### LeadAware
+### [LeadAware](https://www.leadaware.co/)
 LeadAware improves lead generation and management by tracking, managing, and converting leads efficiently, enhancing sales and marketing efforts.
 
-### SurgiMakers
-SurgiMakers develops innovative surgical devices and technologies aimed at improving surgical outcomes and enhancing patient care.
-
-### Trademark Essentials
-Trademark Essentials provides comprehensive services for trademark registration and protection, helping businesses secure and defend their trademarks.
-
-### Halal CS
-Halal CS offers services and products that comply with halal standards, ensuring consumers have access to halal-certified products and services.
-
-### EdgeFirm
-EdgeFirm provides consulting and technology solutions specializing in digital transformation to help businesses improve efficiency and drive growth.
-
-### TripKarao
-TripKarao is a travel platform offering comprehensive travel solutions, including flight bookings, hotel reservations, and travel packages.
  
-### Perill Group
-Perill Group offers consulting services specializing in risk management and strategic advisory, helping businesses navigate complex challenges and make informed decisions.
-
-### HalalAQ
-HalalAQ promotes halal food standards and certification, ensuring food products meet halal requirements and providing assurance to consumers.
-
-
 
 
 #### ⚙️ GitHub Analytics
