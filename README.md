@@ -1,9 +1,9 @@
 ### 👨🏻‍💻 About Me:
 🎓 MERN/Next.js Stack Developer | Software Engineer | Crafting Sleek Designs
+ 
+⚡ Fun fact: Computer mouse speed is measured in *Mickeys*.
 
 ✉️ Reach me at ibadhashim4@gmail.com – I'll reply promptly!
-
-⚡ Fun fact: Computer mouse speed is measured in "Mickeys."
 #  
 
 ### 🛠 &nbsp;Tech Stack
@@ -38,11 +38,9 @@ TripKarao is a travel platform offering comprehensive travel solutions, includin
 #### [SurgiMakers](https://www.surgimakers.com/)
 SurgiMakers develops innovative surgical devices and technologies aimed at improving surgical outcomes and enhancing patient care.
  
-#### [Gfacility](https://gfacility.com/)
-Gfacility offers comprehensive facility management solutions, focusing on maintenance, space, and asset management to optimize operational efficiency.
-
-#### [LeadAware](https://www.leadaware.co/)
-LeadAware improves lead generation and management by tracking, managing, and converting leads efficiently, enhancing sales and marketing efforts.
+#### [Gfacility](https://gfacility.com/) [LeadAware](https://www.leadaware.co/)
+  
+ 
 
  
 
