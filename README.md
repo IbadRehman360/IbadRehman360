@@ -26,22 +26,22 @@
 
 #### 
 
-### [EazyConnections](https://www.eazyconnections.com/) 
+#### [EazyConnections](https://www.eazyconnections.com/) 
 EazyConnections focuses on providing networking solutions, connecting businesses and individuals for professional networking and collaboration.
  
-### [Perill Group](https://perill-group.vercel.app/)
+#### [Perill Group](https://perill-group.vercel.app/)
 Perill Group offers consulting services specializing in risk management and strategic advisory, helping businesses navigate complex challenges and make informed decisions.
 
-### [TripKarao](https://www.tripkarao.pk/)
+#### [TripKarao](https://www.tripkarao.pk/)
 TripKarao is a travel platform offering comprehensive travel solutions, including flight bookings, hotel reservations, and travel packages.
 
-### [SurgiMakers](https://www.surgimakers.com/)
+#### [SurgiMakers](https://www.surgimakers.com/)
 SurgiMakers develops innovative surgical devices and technologies aimed at improving surgical outcomes and enhancing patient care.
  
-### [Gfacility](https://gfacility.com/)
+#### [Gfacility](https://gfacility.com/)
 Gfacility offers comprehensive facility management solutions, focusing on maintenance, space, and asset management to optimize operational efficiency.
 
-### [LeadAware](https://www.leadaware.co/)
+#### [LeadAware](https://www.leadaware.co/)
 LeadAware improves lead generation and management by tracking, managing, and converting leads efficiently, enhancing sales and marketing efforts.
 
  
