@@ -38,13 +38,10 @@ SurgiMakers develops innovative surgical devices and technologies.
 
 ### [Gfacility](https://gfacility.com/) - [LeadAware](https://www.leadaware.co/)
 Gfacility provides facility management solutions. 
-LeadAware enhances lead generation and management.
-
-#### and Many More!
- 
+LeadAware enhances lead generation and management. and Many More!
 
 
-
+####
 
 
 
