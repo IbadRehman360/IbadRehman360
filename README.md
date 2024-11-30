@@ -28,9 +28,9 @@ Hey, I'm Ibad ur Rehman, a front-end developer passionate about crafting beautif
 
 ### Brief Overview of Projects I've Contributed To:
 
-This is my personal portfolio website where I show off the work I've done
+This portfolio website highlights the projects I've worked on as a front-end developer. It features my skills, past work, and contact details in a clean, user-friendly design.
  
-Check it out: [Portfolio](https://ibaddev.vercel.app/)
+Check it out: [ibad_dev](https://ibaddev.vercel.app/)
 
 #### ⚙️ GitHub Analytics
 
