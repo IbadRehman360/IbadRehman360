@@ -28,17 +28,10 @@ Hey, I'm Ibad ur Rehman, a front-end developer passionate about crafting beautif
 
 ### Brief Overview of Projects I've Contributed To:
 
-#### 
+This is my personal portfolio website where I show off the work I've done
 
-#### [EazyConnections](https://www.eazyconnections.com/) - [Perill Group](https://perill-group.vercel.app/)
-EazyConnections provides networking solutions for businesses and individuals.
-Perill Group offers risk management and strategic consulting services.
+#### Check it out: ibaddev.vercel.app
 
-#### [TripKarao](https://www.tripkarao.pk/) - [SurgiMakers](https://www.surgimakers.com/)
-TripKarao offers comprehensive travel solutions.
-SurgiMakers develops innovative surgical devices and technologies.
-
-####
 
 #### ⚙️ GitHub Analytics
 
