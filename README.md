@@ -30,8 +30,7 @@ Hey, I'm Ibad ur Rehman, a front-end developer passionate about crafting beautif
 
 This is my personal portfolio website where I show off the work I've done
  
-Check it out: https://ibaddev.vercel.app/
-
+Check it out: [Portfolio](https://ibaddev.vercel.app/)
 
 #### ⚙️ GitHub Analytics
 
