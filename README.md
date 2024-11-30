@@ -1,12 +1,14 @@
-### 👨🏻‍💻 About Me:
+### Hi there 👋
 
-🎓 MERN/Next.js Stack Developer | Software Developer | Crafting Sleek Designs
+Hey, I'm Ibad ur Rehman, a front-end developer passionate about crafting beautiful and practical websites.
+
+## About Me
+
+🎓 MERN/Next/Vue Developer | Software Engineer
  
 ⚡ Fun fact: Computer mouse speed is measured in *Mickeys*.
 
-✉️ Reach me at ibadhashim4@gmail.com – I'll reply promptly!
-
-#  
+✉️ How to reach me: ibadhashim4@gmail.com
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -36,15 +38,7 @@ Perill Group offers risk management and strategic consulting services.
 TripKarao offers comprehensive travel solutions.
 SurgiMakers develops innovative surgical devices and technologies.
 
-#### [Gfacility](https://gfacility.com/) - [LeadAware](https://www.leadaware.co/)
-Gfacility provides facility management solutions. 
-LeadAware enhances lead generation and management. and Many More!
-
-
 ####
-
-
-
 
 #### ⚙️ GitHub Analytics
 
@@ -54,8 +48,7 @@ LeadAware enhances lead generation and management. and Many More!
 
 # 
 ### Let's Connect!
-
-Chat tech or team up. Find me on [LinkedIn](https://www.linkedin.com/in/ibad-ur-rehman-b5a78a27b/) or wave on [Twitter](https://twitter.com/ibad_dev). Peek at my projects on the [GitHub](https://github.com/ibadhashim) or ✉️ Reach me at ibadhashim4@gmail.com – I'll reply promptly!
+Find me on [LinkedIn](https://www.linkedin.com/in/ibad-ur-rehman-b5a78a27b/) or wave on [Twitter](https://twitter.com/ibad_dev). or ✉️ Reach me at ibadhashim4@gmail.com – I'll reply promptly!
 
 
 Happy coding!
