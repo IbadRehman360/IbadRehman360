@@ -2,7 +2,7 @@
 
 Hey, I'm Ibad ur Rehman, a front-end developer passionate about crafting beautiful and practical websites.
 
-## About Me
+### About Me
 
 🎓 MERN/Next/Vue Developer | Software Engineer
  
